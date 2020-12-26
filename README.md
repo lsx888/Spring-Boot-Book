@@ -6,7 +6,7 @@
 
   功能：后台用户管理、用户分配角色、角色管理、角色授权、权限管理（菜单式）。
 
-  作品地址：https://gitee.com/freen/fadmin
+  作品地址：https://gitee.com/freen/fadmin 我自己的仓库地址https://gitee.com/lsx0613/fadmin
 
 由于收到大量垃圾Issue，所以暂时关闭Issue功能，有问题请入群提交，本项目不会关闭。
 
